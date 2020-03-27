@@ -18,7 +18,6 @@ namespace RamUsage
         private PerformanceCounter tempCount = new PerformanceCounter("Thermal Zone Information", "Temperature", @"\_TZ.THRM");
 
         private bool _isTemperatureRead;
-        int a;
         private string _PhysicalCore;
         private int _CoresCount;
         private int _LogicalCoresCount;

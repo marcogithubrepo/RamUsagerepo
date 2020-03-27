@@ -10,7 +10,6 @@ C:\Users\Marco\source\repos\RamUsage\RamUsage\obj\Debug\RamUsage.pdb
 C:\Users\Marco\Documents\C#\RamUsage\RamUsage\bin\Debug\RamUsage.exe.config
 C:\Users\Marco\Documents\C#\RamUsage\RamUsage\bin\Debug\RamUsage.exe
 C:\Users\Marco\Documents\C#\RamUsage\RamUsage\bin\Debug\RamUsage.pdb
-C:\Users\Marco\Documents\C#\RamUsage\RamUsage\obj\Debug\RamUsage.csprojAssemblyReference.cache
 C:\Users\Marco\Documents\C#\RamUsage\RamUsage\obj\Debug\RamUsage.Form1.resources
 C:\Users\Marco\Documents\C#\RamUsage\RamUsage\obj\Debug\RamUsage.Properties.Resources.resources
 C:\Users\Marco\Documents\C#\RamUsage\RamUsage\obj\Debug\RamUsage.csproj.GenerateResource.cache
