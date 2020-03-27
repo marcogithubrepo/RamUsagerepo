@@ -1,0 +1,9 @@
+C:\Users\Marco\source\repos\RamUsage\RamUsage\bin\Release\RamUsage.exe.config
+C:\Users\Marco\source\repos\RamUsage\RamUsage\bin\Release\RamUsage.exe
+C:\Users\Marco\source\repos\RamUsage\RamUsage\bin\Release\RamUsage.pdb
+C:\Users\Marco\source\repos\RamUsage\RamUsage\obj\Release\RamUsage.Form1.resources
+C:\Users\Marco\source\repos\RamUsage\RamUsage\obj\Release\RamUsage.Properties.Resources.resources
+C:\Users\Marco\source\repos\RamUsage\RamUsage\obj\Release\RamUsage.csproj.GenerateResource.cache
+C:\Users\Marco\source\repos\RamUsage\RamUsage\obj\Release\RamUsage.csproj.CoreCompileInputs.cache
+C:\Users\Marco\source\repos\RamUsage\RamUsage\obj\Release\RamUsage.exe
+C:\Users\Marco\source\repos\RamUsage\RamUsage\obj\Release\RamUsage.pdb
