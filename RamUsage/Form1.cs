@@ -36,6 +36,7 @@ namespace RamUsage
             this.chartRAMPerc.ChartAreas[0].AxisY.Title = "Used RAM %";
             this.chartRAMPerc.ChartAreas[0].AxisX.ScaleView.Zoom(0, 100);
             this.chartRAMPerc.ChartAreas[0].AxisX.Title = "Time (sec)";
+            this.chartRAMPerc.ChartAreas[0].BackColor = SystemColors.Control;
             this.chartRAMPerc.Series[0].Color = Color.Blue;
             this.chartRAMPerc.Series[0].ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
             this.chartRAMPerc.ChartAreas[0].AxisX.MajorGrid.Enabled = false;
@@ -46,6 +47,7 @@ namespace RamUsage
             this.chartCPUPerc.ChartAreas[0].AxisY.Title = "Used CPU %";
             this.chartCPUPerc.ChartAreas[0].AxisX.ScaleView.Zoom(0, 100);
             this.chartCPUPerc.ChartAreas[0].AxisX.Title = "Time (sec)";
+            this.chartCPUPerc.ChartAreas[0].BackColor = SystemColors.Control;
             this.chartCPUPerc.Series[0].Color = Color.Red;
             this.chartCPUPerc.Series[0].ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
             this.chartCPUPerc.ChartAreas[0].AxisX.MajorGrid.Enabled = false;
@@ -57,6 +59,7 @@ namespace RamUsage
             this.listViewRam.Columns.Add("Column1Name");
             this.listViewRam.Columns.Add("Column2Name");
             this.listViewRam.Columns[0].Width = 100;
+            this.listViewRam.BackColor = SystemColors.Control;
             this.listViewRam.GridLines = true;
             this.listViewRam.HeaderStyle = System.Windows.Forms.ColumnHeaderStyle.None;
 
@@ -71,6 +74,7 @@ namespace RamUsage
             this.listViewCpu.Columns.Add("Column1Name");
             this.listViewCpu.Columns.Add("Column2Name");
             this.listViewCpu.Columns[0].Width = 100;
+            this.listViewCpu.BackColor = SystemColors.Control;
             this.listViewCpu.GridLines = true;
             this.listViewCpu.HeaderStyle = System.Windows.Forms.ColumnHeaderStyle.None;
 

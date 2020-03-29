@@ -21,7 +21,6 @@ namespace RamUsage
             //this.tempCount.NextValue();
 
             Temp = this.tempCount.NextValue();
-            int a = 0;
         }
 
 
